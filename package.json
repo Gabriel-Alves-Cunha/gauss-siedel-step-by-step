@@ -1,0 +1,30 @@
+{
+  "name": "gauss-siedel-step-by-step",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Alves-Cunha/gauss-siedel-step-by-step.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Alves-Cunha/gauss-siedel-step-by-step/issues"
+  },
+  "homepage": "https://github.com/Gabriel-Alves-Cunha/gauss-siedel-step-by-step#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.10",
+    "@types/react": "^17.0.0",
+    "typescript": "^4.1.2"
+  }
+}
